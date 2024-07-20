@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_12"
+type="Resource"
+uid="uid://dhi4bnyyq2wmb"
+path="res://.godot/imported/Vilanez_1.dialogue-66a908c134e3cff64746d767b765f7d4.tres"
+
+[deps]
+
+source_file="res://dialogue/Vilanez_1.dialogue"
+dest_files=["res://.godot/imported/Vilanez_1.dialogue-66a908c134e3cff64746d767b765f7d4.tres"]
+
+[params]
+
+defaults=true
